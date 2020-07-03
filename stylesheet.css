@@ -144,8 +144,6 @@ header {
     flex: auto;
 }
 
-@media (max-width: 670px) {
-	
 .container {
   width: 1170px;
   padding: 0 15px;
@@ -311,6 +309,7 @@ footer{
 	margin-bottom: 5px;
 }
 
+@media (max-width: 670px) {
     .main {
         max-width: 100%
     }

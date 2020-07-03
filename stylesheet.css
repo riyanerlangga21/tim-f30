@@ -172,7 +172,7 @@ header {
   color:black;
 }
 
-
+}
 footer{
 	position: fixed;
 	bottom: 0;
@@ -310,6 +310,7 @@ footer{
 	margin-right: 3px;
 	margin-bottom: 5px;
 }
+
     .main {
         max-width: 100%
     }
